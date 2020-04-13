@@ -1,5 +1,7 @@
 # GrowtopiaItemDatabase
 
+if not updated use http://growtopiatools.glitch.me/ 
+
 CoreData thing
 
 ## Installation
